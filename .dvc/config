@@ -1,0 +1,5 @@
+[core]
+    remote = cringe
+['remote "cringe"']
+    url = gdrive://1TWu6PwDSXr1pOsGZqpepyRNEcpG6jYq4
+    gdrive_acknowledge_abuse = true
